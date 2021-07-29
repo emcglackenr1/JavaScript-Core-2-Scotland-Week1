@@ -19,4 +19,3 @@ console.log(dog1.breed);
 
 // Log the name of this dog
 
-
